@@ -1,6 +1,8 @@
 /* === ESTRUCTURA GENERAL === */
 
 body.proposals {
+  position: relative;
+  min-height: 100vh;
   margin: 0;
   font-family: 'Arial', sans-serif;
   background-color: #e4e4e4;
@@ -108,4 +110,37 @@ body.proposals {
   font-size: 14px;
   color: #444;
   transition: color 0.03s;
+}
+
+/* === TÍTULOS DE CATEGORÍA EN HTML === */
+
+.category h2 {
+  font-family: 'Arial', sans-serif; /* podés cambiar por una más artística */
+  font-size: 25px;
+  letter-spacing: 0.02em;
+  margin: 40px 0 20px 0;
+  padding-left: 0;
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  color: #111;
+}
+
+.footer {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 14px;
+  color: #888;
+  width: max-content;
+  text-align: center;
+}
+
+.footer-line {
+  width: 90px;
+  height: 1px;
+  background-color: #c3c3c3;
+  margin: 0 auto 15px auto;
 }

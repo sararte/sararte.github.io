@@ -71,3 +71,37 @@ body.only-home #menu-home img {
   width: 60%; /* ← esto reduce el subrayado */
 }
 
+.lang-switch {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  font-family: sans-serif;
+}
+
+.lang-switch a {
+  text-decoration: none;
+  color: #fff;
+  background: #000;
+  padding: 6px 12px;
+  border-radius: 4px;
+  border: 1px solid #fff;
+  font-size: 14px;
+  transition: background 0.2s, color 0.2s;
+}
+
+.lang-switch a:hover {
+  background: #fff;
+  color: #000;
+}
+
+.home-icon {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.home-icon:hover {
+  transform: scale(0.9);
+  opacity: 0.8;
+
+}
+

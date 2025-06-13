@@ -1,39 +1,24 @@
 console.log("✅ proposals.js cargado");
 
-// Detectar idioma según el nombre del archivo
-let jsonPath = "../data/artworks_with_dimensions.json";
-
-if (window.location.pathname.includes("-en")) {
-  jsonPath = "../data/artworks_with_dimensions-en.json";
-}
-
-// Definir los textos según idioma
-let textos = {
-  drawings: "Drawings",
-  paintings: "Paintings",
-  installations: "Installations"
-};
-
-if (!window.location.pathname.includes("-en")) {
-  textos = {
-    drawings: "Dibujos",
-    paintings: "Pinturas",
-    installations: "Instalaciones"
-  };
-}
-
 const AÑOS_DIBUJOS = ["2011", "2012", "2013", "2024"];
 const contenedor = document.getElementById("obras-content");
 
 // Crear el título
 const titulo = document.createElement("h2");
 titulo.className = "category-title";
-titulo.textContent = textos.drawings;
+// titulo.textContent = "Drawings";
 contenedor.appendChild(titulo);
 
 // Crear la fila para los covers
 const fila = document.createElement("div");
 fila.className = "cover-row";
+
+// Detectar idioma según el nombre del archivo
+let jsonPath = "../data/artworks_with_dimensions.json";
+
+if (window.location.pathname.includes("-en")) {
+  jsonPath = "../data/artworks_with_dimensions-en.json";
+}
 
 // Cargar el JSON correspondiente
 fetch(jsonPath)
@@ -79,7 +64,7 @@ fetch(jsonPath)
 const paintings = data.paintings;
 const paintingsTitle = document.createElement("h2");
 paintingsTitle.className = "category-title";
-paintingsTitle.textContent = textos.paintings;
+// paintingsTitle.textContent = "Paintings";
 container.appendChild(paintingsTitle);
 
 const paintingsRow = document.createElement("div");
@@ -119,7 +104,7 @@ const installations = data.installations;
 
 const installationsTitle = document.createElement("h2");
 installationsTitle.className = "category-title";
-installationsTitle.textContent = textos.installations;
+// installationsTitle.textContent = "Installations";
 container.appendChild(installationsTitle);
 
 const installationsRow = document.createElement("div");

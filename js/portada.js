@@ -28,8 +28,18 @@ async function obtenerImagenesHorizontales() {
 }
 
 async function iniciarPresentacion() {
-  const imagenes = await obtenerImagenesHorizontales();
+  /* const imagenes = await obtenerImagenesHorizontales();
+  if (imagenes.length === 0) return; */
+
+  let imagenes = await obtenerImagenesHorizontales();
   if (imagenes.length === 0) return;
+
+  // Mezclar el array aleatoriamente (Fisher-Yates shuffle)
+  for (let i = imagenes.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [imagenes[i], imagenes[j]] = [imagenes[j], imagenes[i]];
+  }
+
 
   let indice = 0;
 

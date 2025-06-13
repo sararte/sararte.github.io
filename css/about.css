@@ -1,4 +1,6 @@
 body {
+  position: relative;
+  min-height: 100vh;
   margin: 0;
   /* background-color: #f4f4f4; */
   background-color: #e4e4e4;
@@ -42,4 +44,20 @@ body {
   color: #535353;
 }
 
+.footer {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 14px;
+  color: #888;
+  width: max-content;
+  text-align: center;
+}
 
+.footer-line {
+  width: 90px;
+  height: 1px;
+  background-color: #c3c3c3;
+  margin: 0 auto 15px auto;
+}

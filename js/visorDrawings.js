@@ -10,7 +10,8 @@
 
 document.addEventListener("DOMContentLoaded", () => {
   const contenedor = document.getElementById("obras-content");
-
+   if (!contenedor) return;
+   
   contenedor.addEventListener("click", async (e) => {
     const item = e.target.closest('.cover-item[data-category="drawings"]');
     if (!item) return;

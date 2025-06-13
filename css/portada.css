@@ -26,3 +26,22 @@ body {
   transition: opacity 2.5s ease-in-out;
 }
 
+/* firma inicial */
+#firma-container {
+  position: absolute;
+  bottom: 40px;
+  right: 60px;
+  opacity: 0;
+  animation: aparecer 3s ease-out 3s forwards;
+}
+
+#firma {
+  max-width: 180px;
+  filter: drop-shadow(0 0 2px rgba(0,0,0,0.4));
+}
+
+@keyframes aparecer {
+  to {
+    opacity: 1;
+  }
+}

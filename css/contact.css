@@ -153,3 +153,25 @@
   transition: opacity 0.5s ease;
 }
 
+#form-status {
+  transition: opacity 1s ease-in-out;
+  opacity: 0;
+}
+
+.footer {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 14px;
+  color: #888;
+  width: max-content;
+  text-align: center;
+}
+
+.footer-line {
+  width: 90px;
+  height: 1px;
+  background-color: #c3c3c3;
+  margin: 0 auto 15px auto;
+}
