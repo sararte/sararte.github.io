@@ -19,9 +19,19 @@ document.addEventListener("DOMContentLoaded", () => {
     const year = item.dataset.year;
 
     try {
-      const response = await fetch("../data/artworks_with_dimensions.json");
+      /* const response = await fetch("../data/artworks_with_dimensions.json");
+      const data = await response.json();
+      const obras = data.drawings[year]; */
+
+      let jsonPath = "../data/artworks_with_dimensions.json";
+      if (window.location.pathname.includes("-es")) {
+        jsonPath = "../data/artworks_with_dimensions-es.json";
+      }
+
+      const response = await fetch(jsonPath);
       const data = await response.json();
       const obras = data.drawings[year];
+
 
       if (!obras || obras.length === 0) {
         console.warn("No hay obras para el año:", year);

@@ -12,10 +12,21 @@ function activarVisorInstallations() {
 }
 
 function mostrarInstalacion(year) {
-  fetch("../data/artworks_with_dimensions.json")
+  /* fetch("../data/artworks_with_dimensions.json")
     .then(res => res.json())
     .then(data => {
-      const obras = data.installations[year];
+      const obras = data.installations[year]; */
+
+      let jsonPath = "../data/artworks_with_dimensions.json";
+      if (window.location.pathname.includes("-es")) {
+        jsonPath = "../data/artworks_with_dimensions-es.json";
+      }
+
+      fetch(jsonPath)
+        .then(res => res.json())
+        .then(data => {
+          const obras = data.installations[year];
+
       console.log("🔍 Instalaciones encontradas:", obras);
 
       if (!obras || obras.length === 0) return;

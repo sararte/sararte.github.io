@@ -1,27 +1,32 @@
 console.log("✅ proposals.js cargado");
 
 // Detectar idioma según el nombre del archivo
-let jsonPath;
-let textos;
+let jsonPath = "../data/artworks_with_dimensions.json";
 
 if (window.location.pathname.includes("-es")) {
   jsonPath = "../data/artworks_with_dimensions-es.json";
-  textos = {
-    drawings: "Dibujos",
-    paintings: "Pinturas",
-    installations: "Instalaciones"
-  };
-} else {
-  jsonPath = "../data/artworks_with_dimensions.json";
-  textos = {
-    drawings: "Drawings",
-    paintings: "Paintings",
-    installations: "Installations"
-  };
 }
 
-console.log("🧭 JSON seleccionado:", jsonPath);
+// Definir los textos según idioma
+let textos = {
+  drawings: "Dibujos",
+    paintings: "Pinturas",
+    installations: "Instalaciones"
+  /* drawings: "Drawings",
+  paintings: "Paintings",
+  installations: "Installations" */
+};
 
+if (!window.location.pathname.includes("-es")) {
+  textos = {
+    /* drawings: "Dibujos",
+    paintings: "Pinturas",
+    installations: "Instalaciones" */
+    drawings: "Drawings",
+  paintings: "Paintings",
+  installations: "Installations"
+  };
+}
 
 const AÑOS_DIBUJOS = ["2011", "2012", "2013", "2024"];
 const contenedor = document.getElementById("obras-content");

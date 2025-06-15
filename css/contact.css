@@ -175,3 +175,18 @@
   background-color: #c3c3c3;
   margin: 0 auto 15px auto;
 }
+
+@keyframes fadeInForm {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -45%);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(-50%, -50%);
+  }
+}
+
+#contact-form-container.aparecer {
+  animation: fadeInForm 2.5s ease forwards;
+}

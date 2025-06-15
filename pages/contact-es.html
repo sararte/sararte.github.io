@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Contact</title>
+  <title>Contacto</title>
   <link rel="stylesheet" href="../css/contact.css" />
   <link rel="stylesheet" href="../css/menu.css" />
 </head>
@@ -11,11 +11,11 @@
   <nav id="side-menu" class="hidden">
     <ul>
       <li id="menu-home">
-        <a href="../index-en.html">
+        <a href="../index-es.html">
           <img src="../img/home.png" alt="Home" class="home-icon" />
         </a>
       </li>
-      <li><a href="contact-en.html" class="active">Contact</a></li>
+      <li><a href="contact-es.html" class="active">Contacto</a></li>
     </ul>
   </nav>
 
@@ -25,7 +25,7 @@
     
     <form id="contact-form">
       <label>
-        Name:
+        Nombre:
         <input type="text" name="name" required>
       </label>
       <label>
@@ -35,13 +35,14 @@
       <input type="hidden" name="_subject" value="Nuevo mensaje desde tu sitio web">
 
       <label>
-        Message:
+        Mensaje:
         <textarea name="message" rows="5" required></textarea>
       </label>
       <button type="submit">Enviar</button>
     </form>
 
     <div id="form-status"></div>
+
   </main>
 
   <script>
@@ -51,12 +52,14 @@
         // Al segundo 5: atenuamos fondo
         document.getElementById("contact-background").classList.add("dimmed");
         // y mostramos el formulario y el menú
-        document.getElementById("contact-form-container").classList.remove("hidden");
+        const formContainer = document.getElementById("contact-form-container");
+        formContainer.classList.remove("hidden");
+        formContainer.classList.add("aparecer");
+
         document.getElementById("side-menu").classList.remove("hidden");
       }, 3000);
     });
   </script>
-
 
   <script>
   document.getElementById("contact-form").addEventListener("submit", async function(e) {
@@ -75,13 +78,13 @@
       });
 
       if (response.ok) {
-        status.textContent = "✅ Thank you, your message has been sent.";
+        status.textContent = "✅ Gracias, tu mensaje fue enviado.";
         form.reset();
       } else {
-        status.textContent = "⚠️ There was a problem. Please try again later.";
+        status.textContent = "⚠️ Hubo un problema. Intenta más tarde.";
       }
     } catch (error) {
-      status.textContent = "❌ Network error. Please check your connection.";
+      status.textContent = "❌ Error de red. Revisa tu conexión.";
     }
 
     // Ocultar el mensaje luego de 5 segundos
@@ -92,7 +95,7 @@
   });
 </script>
 
-  <footer class="footer">
+<footer class="footer">
     <div class="footer-line"></div>
     © Marco Saravia Vega - 2025. 
   </footer>
