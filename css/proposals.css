@@ -73,6 +73,7 @@ body.proposals {
   margin-bottom: 12px;
   text-align: left;
   color: #111;
+  border-bottom: 1px solid #555;
 }
 
 
