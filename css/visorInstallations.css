@@ -81,3 +81,15 @@
   opacity: 1;
   pointer-events: auto;
 }
+
+.visor-contenido:hover .descripcion-general,
+.visor-contenido video:hover ~ .descripcion-general {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Forzar visibilidad si es video externo (iframe) */
+.visor-contenido.con-video-externo .descripcion-general {
+  opacity: 1 !important;
+  pointer-events: auto;
+}

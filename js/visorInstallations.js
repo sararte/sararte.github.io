@@ -12,11 +12,6 @@ function activarVisorInstallations() {
 }
 
 function mostrarInstalacion(year) {
-  /* fetch("../data/artworks_with_dimensions.json")
-    .then(res => res.json())
-    .then(data => {
-      const obras = data.installations[year]; */
-
       let jsonPath = "../data/artworks_with_dimensions.json";
       if (window.location.pathname.includes("-es")) {
         jsonPath = "../data/artworks_with_dimensions-es.json";
@@ -45,13 +40,19 @@ function mostrarInstalacion(year) {
         contenido.appendChild(img);
       });
 
-      // Si alguna obra tiene video, lo agregamos al final
-      const obraConVideo = obras.find(o => o.video);
-      if (obraConVideo) {
+      if (obras[0].video) {
         const video = document.createElement("video");
-        video.src = obraConVideo.video;
+        video.src = obras[0].video;
         video.controls = true;
-        video.preload = "metadata";
+        video.style.display = "block";
+        video.style.margin = "30px auto";
+        video.style.maxWidth = "90%";
+        video.style.border = "none";
+
+        // Si es un link de archive, puedes personalizar más si quieres
+        if (obras[0].video.includes("archive.org")) {
+          // ...opcionalmente cambia algo para links externos
+        }
         contenido.appendChild(video);
       }
 
@@ -71,6 +72,8 @@ function mostrarInstalacion(year) {
       descripcion.textContent = partes.join(" — ");
 
       contenido.appendChild(descripcion);
+
+
       visor.appendChild(contenido);
       document.body.appendChild(visor);
 
