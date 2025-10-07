@@ -1,0 +1,19 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de editores
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos de sistema en Windows
+desktop.ini
+
+# Archivos temporales de Node (por si más adelante usás herramientas web)
+node_modules/
+dist/

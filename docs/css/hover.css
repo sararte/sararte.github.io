@@ -1,0 +1,27 @@
+/* .cover-item {
+  padding: 6px;
+  transition: background-color 0.3s, transform 0.3s;
+  cursor: pointer;
+}
+
+.cover-item:hover {
+  background-color: rgba(0, 0, 0, 0.15);
+  transform: scale(1.03);
+} */
+.cover-item {
+  padding: 10px;
+  transition: background-color 0.3s, padding-bottom 0.8s;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.cover-item:hover {
+  /* background-color: rgba(0, 0, 0, 0.10); */
+  background-color: #b8b8b8;
+  padding-bottom: 40px;
+}
+
+.cover-item:hover .cover-year {
+  color: white;
+}
+

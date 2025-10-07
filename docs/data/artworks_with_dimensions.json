@@ -1,0 +1,790 @@
+{
+  "drawings": {
+    "2011": [
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2011",
+        "materials": "silicone on paper",
+        "dimensions": "50 x 70 cm",
+        "image": "../img/drawings/2011/nh-11a.png",
+        "width": 70,
+        "height": 50,
+        "orientation": "horizontal"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2011",
+        "materials": "silicone on paper",
+        "dimensions": "50 x 70 cm",
+        "image": "../img/drawings/2011/nh-11b.png",
+        "width": 70,
+        "height": 50,
+        "orientation": "horizontal"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2011",
+        "materials": "silicone on paper",
+        "dimensions": "50 x 70 cm",
+        "image": "../img/drawings/2011/nh-11c.png",
+        "width": 70,
+        "height": 50,
+        "orientation": "horizontal"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2011",
+        "materials": "silicone on paper",
+        "dimensions": "50 x 70 cm",
+        "image": "../img/drawings/2011/nh-11d.png",
+        "width": 70,
+        "height": 50,
+        "orientation": "horizontal"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2011",
+        "materials": "silicone on paper",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/drawings/2011/nh-11e.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2011",
+        "materials": "silicone on paper",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/drawings/2011/nh-11f.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2011",
+        "materials": "silicone on paper",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/drawings/2011/nh-11g.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2011",
+        "materials": "silicone on paper",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/drawings/2011/nh-11h.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      }
+    ],
+    "2012": [
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil, silicone y charcoal on coated paper",
+        "dimensions": "30 x 21 cm",
+        "image": "../img/drawings/2012/nh-12a.png",
+        "width": 21,
+        "height": 30,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil y lacquer on coated paper",
+        "dimensions": "30 x 21 cm",
+        "image": "../img/drawings/2012/nh-12b.png",
+        "width": 21,
+        "height": 30,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "CK",
+        "year": "2012",
+        "materials": "oil y lacquer on newsprint",
+        "dimensions": "30 x 21 cm",
+        "image": "../img/drawings/2012/nh-12c.png",
+        "width": 21,
+        "height": 30,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil y lacquer on newsprint",
+        "dimensions": "30 x 21 cm",
+        "image": "../img/drawings/2012/nh-12d.png",
+        "width": 21,
+        "height": 30,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil, charcoal, crayon, pencil, putty y cutouts on paper",
+        "dimensions": "100 x 70 cm",
+        "image": "../img/drawings/2012/nh-12e.png",
+        "width": 70,
+        "height": 100,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil,charcoal, cutout y lacquer on paper",
+        "dimensions": "30 x 21 cm",
+        "image": "../img/drawings/2012/nh-12f.png",
+        "width": 21,
+        "height": 30,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil y lacquer on paper",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/drawings/2012/nh-12g.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil y lacquer on coated paper ",
+        "dimensions": "30 x 21 cm",
+        "image": "../img/drawings/2012/nh-12h.png",
+        "width": 21,
+        "height": 30,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil, charcoal y lacquer on newsprint",
+        "dimensions": "30 x 21 cm",
+        "image": "../img/drawings/2012/nh-12i.png",
+        "width": 21,
+        "height": 30,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil, charcoal y lacquer on newsprint",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/drawings/2012/nh-12j.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil, putty y charcoal on newsprint",
+        "dimensions": "30 x 21 cm",
+        "image": "../img/drawings/2012/nh-12k.png",
+        "width": 21,
+        "height": 30,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil, pen, charcoal y lacquer on paper",
+        "dimensions": "30 x 21 cm",
+        "image": "../img/drawings/2012/nh-12l.png",
+        "width": 21,
+        "height": 30,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil y lacquer on newsprint",
+        "dimensions": "30 x 21 cm",
+        "image": "../img/drawings/2012/nh-12m.png",
+        "width": 21,
+        "height": 30,
+        "orientation": "vertical"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Crucifixión",
+        "year": "2012",
+        "materials": "oil, putty, charcoal y lacquer on newsprint",
+        "dimensions": "30 x 21 cm",
+        "image": "../img/drawings/2012/nh-12n.png",
+        "width": 21,
+        "height": 30,
+        "orientation": "vertical"
+      }
+    ],
+    "2013": [
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil, charcoal y lacquer on paper",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2013/13-a.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil, charcoal y lacquer on paper",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2013/13-b.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil, charcoal y lacquer on coated paper",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2013/13-c.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil, charcoal y lacquer on newsprint",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2013/13-d.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil, charcoal y lacquer on newsprint",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2013/13-e.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil, charcoal y lacquer on newsprint",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2013/13-f.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on coated paper",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2013/13-g.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil, charcoal y lacquer on paper",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2013/13-h.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on coated paper",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2013/13-i.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      }
+    ],
+    "2024": [
+      {
+        "serie": "We, little humans...",
+        "title": "Pareja",
+        "year": "2024",
+        "materials": "oil, charcoal y lacquer on paper",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2024/nh-24a.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Pareja",
+        "year": "2024",
+        "materials": "oil, cutouts y lacquer on paper",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2024/nh-24b.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Pareja",
+        "year": "2024",
+        "materials": "oil y lacquer on paper",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2024/nh-24c.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "serie": "We, little humans...",
+        "title": "Pareja",
+        "year": "2024",
+        "materials": "oil, charcoal y lacquer on paper",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2024/nh-24d.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2024",
+        "materials": "oil, charcoal y lacquer on paper",
+        "dimensions": "23 x 27,5 cm",
+        "image": "../img/drawings/2024/24-a.png",
+        "width": 27.5,
+        "height": 23,
+        "orientation": "horizontal"
+      }
+    ]
+  },
+  "paintings": {
+    "2012": [
+      {
+        "title": "Mass Media",
+        "year": "2012",
+        "materials": "oil, acrylic, epoxy, putty y cutouts s/(cartel/madera)",
+        "dimensions": "180 x 120 cm",
+        "image": "../img/paintings/2012/12-a.png",
+        "width": 120,
+        "height": 180,
+        "orientation": "vertical"
+      },
+      {
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil, charcoal y lacquer on paper",
+        "dimensions": "30 x 20 cm",
+        "image": "../img/paintings/2012/12-b.png",
+        "width": 20,
+        "height": 30,
+        "orientation": "vertical"
+      },
+      {
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil, charcoal y lacquer on newsprint",
+        "dimensions": "80 x 120 cm",
+        "image": "../img/paintings/2012/12-c.png",
+        "width": 120,
+        "height": 80,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil, charcoal y lacquer on coated paper",
+        "dimensions": "80 x 120 cm",
+        "image": "../img/paintings/2012/12-d.png",
+        "width": 120,
+        "height": 80,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil y lacquer on coated paper",
+        "dimensions": "80 x 120 cm",
+        "image": "../img/paintings/2012/12-e.png",
+        "width": 120,
+        "height": 80,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil y lacquer on coated paper",
+        "dimensions": "80 x 120 cm",
+        "image": "../img/paintings/2012/12-f.png",
+        "width": 120,
+        "height": 80,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil y lacquer on coated paper",
+        "dimensions": "80 x 120 cm",
+        "image": "../img/paintings/2012/12-g.png",
+        "width": 120,
+        "height": 80,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2012",
+        "materials": "oil y lacquer on coated paper",
+        "dimensions": "80 x 120 cm",
+        "image": "../img/paintings/2012/12-h.png",
+        "width": 120,
+        "height": 80,
+        "orientation": "horizontal"
+      }
+    ],
+    "2013": [
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on paper",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/paintings/2013/13-a.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on paper",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/paintings/2013/13-b.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on paper",
+        "dimensions": "50 x 70 cm",
+        "image": "../img/paintings/2013/13-c.png",
+        "width": 70,
+        "height": 50,
+        "orientation": "horizontal"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on newsprint",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/paintings/2013/13-d.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on coated paper",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/paintings/2013/13-e.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on coated paper",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/paintings/2013/13-f.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on newsprint",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/paintings/2013/13-g.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on newsprint",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/paintings/2013/13-h.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on newsprint",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/paintings/2013/13-i.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on newsprint",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/paintings/2013/13-j.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "title": "Untitled",
+        "year": "2013",
+        "materials": "oil y lacquer on coated paper",
+        "dimensions": "70 x 50 cm",
+        "image": "../img/paintings/2013/13-k.png",
+        "width": 50,
+        "height": 70,
+        "orientation": "vertical"
+      }
+    ],
+    "2023": [
+      {
+        "title": "Drifting Paradise",
+        "year": "2023",
+        "materials": "oil y lacquer on paper",
+        "dimensions": "70 x 100 cm",
+        "image": "../img/paintings/2023/23-a.png",
+        "width": 100,
+        "height": 70,
+        "orientation": "horizontal"
+      }
+    ],
+    "2024": [
+      {
+        "title": "Re-Institution",
+        "year": "2024",
+        "materials": "oil y lacquer on paper",
+        "dimensions": "70 x 70 cm",
+        "image": "../img/paintings/2024/24-a.png",
+        "width": 70,
+        "height": 70,
+        "orientation": "vertical"
+      },
+      {
+        "title": "adn/gdo",
+        "year": "2024",
+        "materials": "oil y lacquer on paper",
+        "dimensions": "70 x 100 cm",
+        "image": "../img/paintings/2024/24-b.png",
+        "width": 100,
+        "height": 70,
+        "orientation": "horizontal"
+      }
+    ]
+  },
+  "installations": {
+    "2019-2021": [
+      {
+        "title": "Selective Blindness",
+        "year": "2019-2021",
+        "materials": "video, table, chair, TV, sofa y otros",
+        "dimensions": "medidas variables",
+        "image": "../img/installations/2019-2021/cs-cover.png",
+        "video": "https://ia800900.us.archive.org/29/items/ceguera-selectiva/ceguera-selectiva.mp4"
+      },
+      {
+        "title": "Selective Blindness",
+        "year": "2019-2021",
+        "materials": "video, table, chair, TV, sofa y otros",
+        "dimensions": "medidas variables",
+        "image": "../img/installations/2019-2021/cs-1.png"
+      },
+      {
+        "title": "Selective Blindness",
+        "year": "2019-2021",
+        "materials": "video, table, chair, TV, sofa y otros",
+        "dimensions": "medidas variables",
+        "image": "../img/installations/2019-2021/cs-2.png"
+      },
+      {
+        "title": "Selective Blindness",
+        "year": "2019-2021",
+        "materials": "video, table, chair, TV, sofa y otros",
+        "dimensions": "medidas variables",
+        "image": "../img/installations/2019-2021/cs-3.png"
+      },
+      {
+        "title": "Selective Blindness",
+        "year": "2019-2021",
+        "materials": "video, table, chair, TV, sofa y otros",
+        "dimensions": "medidas variables",
+        "image": "../img/installations/2019-2021/cs-4.png"
+      }
+    ],
+    "2016-2017": [
+      {
+        "title": "No More Vengeance",
+        "year": "2016-2017",
+        "subtitle": "El silencio está tomando el control",
+        "materials": "printed wooden panel, audio, electronic device, red carpet y straw",
+        "dimensions": "5 x 3 x 2 m (apróx.)",
+        "image": "../img/installations/2016-2017/nmv-cover.png",
+        "width": 3,
+        "height": 5,
+        "orientation": "vertical"
+      },
+      {
+        "title": "No More Vengeance",
+        "year": "2016-2017",
+        "subtitle": "El silencio está tomando el control",
+        "materials": "printed wooden panel, audio, electronic device, red carpet y straw",
+        "dimensions": "5 x 3 x 2 m (apróx.)",
+        "image": "../img/installations/2016-2017/nmv-1.png",
+        "width": 3,
+        "height": 5,
+        "orientation": "vertical"
+      },
+      {
+        "title": "No More Vengeance",
+        "year": "2016-2017",
+        "subtitle": "El silencio está tomando el control",
+        "materials": "printed wooden panel, audio, electronic device, red carpet y straw",
+        "dimensions": "5 x 3 x 2 m (apróx.)",
+        "image": "../img/installations/2016-2017/nmv-2.png",
+        "width": 3,
+        "height": 5,
+        "orientation": "vertical"
+      },
+      {
+        "title": "No More Vengeance",
+        "year": "2016-2017",
+        "subtitle": "El silencio está tomando el control",
+        "materials": "printed wooden panel, audio, electronic device, red carpet y straw",
+        "dimensions": "5 x 3 x 2 m (apróx.)",
+        "image": "../img/installations/2016-2017/nmv-3.png",
+        "width": 3,
+        "height": 5,
+        "orientation": "vertical"
+      },
+      {
+        "title": "No More Vengeance",
+        "year": "2016-2017",
+        "subtitle": "El silencio está tomando el control",
+        "materials": "printed wooden panel, audio, electronic device, red carpet y straw",
+        "dimensions": "5 x 3 x 2 m (apróx.)",
+        "image": "../img/installations/2016-2017/nmv-4.png",
+        "width": 3,
+        "height": 5,
+        "orientation": "vertical"
+      },
+      {
+        "title": "No More Vengeance",
+        "year": "2016-2017",
+        "subtitle": "El silencio está tomando el control",
+        "materials": "printed wooden panel, audio, electronic device, red carpet y straw",
+        "dimensions": "5 x 3 x 2 m (apróx.)",
+        "image": "../img/installations/2016-2017/nmv-5.png",
+        "width": 3,
+        "height": 5,
+        "orientation": "vertical"
+      },
+      {
+        "title": "No More Vengeance",
+        "year": "2016-2017",
+        "subtitle": "El silencio está tomando el control",
+        "materials": "printed wooden panel, audio, electronic device, red carpet y straw",
+        "dimensions": "5 x 3 x 2 m (apróx.)",
+        "image": "../img/installations/2016-2017/nmv-6.png",
+        "width": 5,
+        "height": 4,
+        "orientation": "horizontal"
+      }
+    ],
+    "2015-2016": [
+      {
+        "title": "they haven’t seen me in my nightgown yet",
+        "year": "2015-2016",
+        "materials": "printed wooden panel y audio preparado",
+        "dimensions": "3,00 x 1,50 m (apróx.)",
+        "image": "../img/installations/2015-2016/avc-cover.png",
+        "video": "../img/installations/videos/Aún no me han visto en camisón.mp4",
+        "width": 1.5,
+        "height": 3,
+        "orientation": "vertical"
+      },
+      {
+        "title": "they haven’t seen me in my nightgown yet",
+        "year": "2015-2016",
+        "materials": "printed wooden panel y audio preparado",
+        "dimensions": "3,00 x 1,50 m (apróx.)",
+        "image": "../img/installations/2015-2016/avc-1.png",
+        "width": 1.5,
+        "height": 3,
+        "orientation": "vertical"
+      },
+      {
+        "title": "they haven’t seen me in my nightgown yet",
+        "year": "2015-2016",
+        "materials": "printed wooden panel y audio preparado",
+        "dimensions": "3,00 x 1,50 m (apróx.)",
+        "image": "../img/installations/2015-2016/avc-2.png",
+        "width": 1.5,
+        "height": 3,
+        "orientation": "vertical"
+      },
+      {
+        "title": "they haven’t seen me in my nightgown yet",
+        "year": "2015-2016",
+        "materials": "printed wooden panel y audio preparado",
+        "dimensions": "3,00 x 1,50 m (apróx.)",
+        "image": "../img/installations/2015-2016/avc-3.png",
+        "width": 1.5,
+        "height": 3,
+        "orientation": "vertical"
+      }
+    ]
+  }
+}

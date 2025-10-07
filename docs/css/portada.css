@@ -1,0 +1,29 @@
+
+
+body {
+  padding: 0;
+  height: 100%;
+  margin: 0;
+  /* background-color: rgb(116, 115, 115); */
+  background-color: #e4e4e4;
+  overflow: hidden;
+}
+
+#contenedor {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: black;
+  padding: 20px;
+  border: 3px solid black;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.8);
+  transition: opacity 2.5s ease-in-out;
+}
+
+#imagen {
+  max-width: 90vw;
+  max-height: 90vh;
+  display: block;
+  transition: opacity 2.5s ease-in-out;
+}
